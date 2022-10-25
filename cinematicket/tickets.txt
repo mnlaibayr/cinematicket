@@ -1,0 +1,72 @@
+
+Ticket Details
+
+Ticket Number:0
+Ticket Price:500
+Ticket Type:Оюутан
+Ticket Time :19:00
+Ticket Block:Урд эгнээ
+______
+
+Ticket Details
+
+Ticket Number:1
+Ticket Price:500
+Ticket Type:Оюутан
+Ticket Time :19:00
+Ticket Block:Урд эгнээ
+______
+
+Ticket Details
+
+Ticket Number:2
+Ticket Price:500
+Ticket Type:Оюутан
+Ticket Time :19:00
+Ticket Block:Урд эгнээ
+______
+
+Ticket Details
+
+Ticket Number:3
+Ticket Price:500
+Ticket Type:Оюутан
+Ticket Time :19:00
+Ticket Block:Урд эгнээ
+______
+
+Ticket Details
+
+Ticket Number:12
+Ticket Price:950
+Ticket Type:Оюутан
+Ticket Time :19:00
+Ticket Block:Хойд эгнээ
+______
+
+Ticket Details
+
+Ticket Number:13
+Ticket Price:950
+Ticket Type:Оюутан
+Ticket Time :19:00
+Ticket Block:Хойд эгнээ
+______
+
+Ticket Details
+
+Ticket Number:14
+Ticket Price:950
+Ticket Type:Оюутан
+Ticket Time :19:00
+Ticket Block:Хойд эгнээ
+______
+
+Ticket Details
+
+Ticket Number:15
+Ticket Price:950
+Ticket Type:Оюутан
+Ticket Time :19:00
+Ticket Block:Хойд эгнээ
+______
